@@ -1,0 +1,10 @@
+.logo img{
+  height: 50px;
+  padding-right: 20px;
+}
+.jumbotron{
+    background-image: url(gambar/bb.jpg);
+    background-size: cover;
+    background-position: center center;
+    padding: 200px;
+}
